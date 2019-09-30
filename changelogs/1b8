@@ -1,0 +1,39 @@
+Hi, thanks again for testing Libi!
+
+As before, you can help me a lot by trying to use the app
+every day, finding pain points and annoyances, or things 
+that seem to be missing.
+
+Insights has grown considerably, with lots of additions and
+a new type of cell that lets you plot two graphs against each
+other to see correlations. And I'll repeat what I wrote last time:
+I'd LOVE your suggestions about what insights would 
+be important to you.
+
+I also added Menstruation as a new Data Point Type. Right now,
+the app can only track the amount of menstrual blood flow. No
+ovulation, no pain. I'm planning to also offer to pull
+Menstruation data from Apple Health, so if you already use 
+another tracker like Clue, that should sync right over -- 
+my main problem right now is I can't think of an easy to use
+UI for entereing more complex data. If you menstruate, and 
+ANYTHING about this feels off, please feel especially encouraged
+to write me a message! I admit I don't know enough, and I'm 
+working to close that gap, but until then, your suggestions
+and critiques are incredibly helpful.
+
+## Other Improvements: 
+- The app now looks okay in dark mode
+- Detail graphs now have the color of their Data Point Type
+- Insights has a new Correlation cell that compares e.g. Libido vs Menstruation
+- Insights has a "average day/average week" cell that shows you how your typical day looks
+- The graphs are a bit less ugly in general, with correctly labeled axes
+- Fix a crasher in build 6 when opening insights with almost no data points 
+
+## Known Bugs
+- The reminder notifications come a bit too often. Libi is needy
+- Reminder Notifications don't open the "new datapoint" screen all the time
+
+## Internals
+- More internal manager type classes are being passed around instead
+  of being reinstantiated all the time. Yay performance.
