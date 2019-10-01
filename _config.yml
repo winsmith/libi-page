@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Private by Design
-    description                           : Your data stays on your devices and is only synced through your personal iCloud. <a href="/privacypolicy">Privacy Policy</a>
+    description                           : Your data stays on your devices and is only synced through your personal iCloud. <a href="./privacypolicy">Privacy Policy</a>
     fontawesome_icon_name                 : lock
 
   - title                                 : # New Feature Title
