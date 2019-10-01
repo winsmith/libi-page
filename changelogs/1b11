@@ -1,0 +1,27 @@
+Hi, thanks for testing Libi!
+
+We're getting ever closer to release, and this beta is a big step towards that! It's the first beta to only work on iOS 13, and it includes changes that iOS brings with it, namely:
+
+1. Your Libi database should now sync to your other devices. 
+
+2. Sexual Activity and Menstrual Flow datapoints now sync with HealthKit. You will find these data points both in Libi and the Health app, and other apps (like Clue or Flo) should be able to pick up that data. (The app will discard menstrual flow values you have entered before this update, sorry about that.)
+
+Other new features include:
+
+- Happiness is now included in Insights
+
+- Sort Data in Overview. In the settings menu, you'll now find you can not only hide and show data types, but also change their ordering.
+
+- Zero values still show as a small bar in graphs. This is important because previously values like "No Libido" or "Okay Happiness" wouldn't show in the graphs at all.
+
+- Orgasms are graphed accumulatively instead of on average, which makes way more sense.
+
+Bugs Fixed:
+
+- Tapping on Overview Graphs does not work #75
+- Happiness "Okay" not shown because it evaluates to zero #76
+- Notification does not open "New DataPoint" view #48
+
+Open Bugs:
+
+- The questions about my day come a bit too often or not at all #38
