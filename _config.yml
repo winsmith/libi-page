@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Track your Menstrual Cycle
     description                           : If you menstruate, you can also quickly and easily enter menstrual flow, learn more about your cycle’s influence on your life, and use Apple Health algorithms to analyze and predict your cycle.
-    fontawesome_icon_name                 : smile-beam
+    fontawesome_icon_name                 : tint
     
   - title                                 : Find Connections
     description                           : Once you’ve started tracking your mood, libido, sexual activity and menstrual flow, you will discover beautiful charts that can give you a quick and glanceable idea of how you’re doing, where you’re going and historical trends.
@@ -52,11 +52,11 @@ features                                  :
 
   - title                                 : Quick and easy entry
     description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course).
-    fontawesome_icon_name                 : lock
+    fontawesome_icon_name                 : fly
 
   - title                                 : Sync with Health App
     description                           : Libi will read and write all compatible data types directly from and into the Apple Health App on your phone using HealthKit. 
-    fontawesome_icon_name                 : lock
+    fontawesome_icon_name                 : sync
 
 
 
