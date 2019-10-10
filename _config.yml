@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Quick and easy entry
     description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course).
-    fontawesome_icon_name                 : fly
+    fontawesome_icon_name                 : dove
 
   - title                                 : Sync with Health App
     description                           : Libi will read and write all compatible data types directly from and into the Apple Health App on your phone using HealthKit. 
