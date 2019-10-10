@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Private by Design
     description                           : Libi takes great care of your data. There are no accounts and no custom syncing, just iCloud and Apple Health. Your data stays on your devices! <a href="./privacypolicy">Privacy Policy</a>
-    fontawesome_icon_name                 : lock
+    fontawesome_icon_name                 : shield-alt
 
   - title                                 : Quick and easy entry
     description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course).
