@@ -11,7 +11,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide me with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. 
+For a better experience, while using the Service, I may require you to provide me with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. 
 
 The exception to this is the "Donate your Data" featuer: If you donate your data by tapping the "Donate you Data" button, the data donated is stripped of any identifying information, uploaded onto servers and processed there. 
 
@@ -35,12 +35,12 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 I may employ third-party companies and individuals due to the following reasons:
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
+- To facilitate the Service;
+- To provide the Service on my behalf;
 - To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+- To assist us in analyzing how my Service is used.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ## Security
 
@@ -52,7 +52,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from my servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 ## Changes to This Privacy Policy
 

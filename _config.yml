@@ -11,8 +11,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Libi                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 2.49 €                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Your personal libido and mood tracker.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Your personal libido and mood tracker.<br>Soon on the iOS App Store.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -47,15 +47,15 @@ features                                  :
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Private by Design
-    description                           : Your data stays on your devices and is only synced through your personal iCloud. <a href="./privacypolicy">Privacy Policy</a>
+    description                           : Libi takes great care of your data. There are no accounts and no custom syncing, just iCloud and Apple Health. Your data stays on your devices! <a href="./privacypolicy">Privacy Policy</a>
     fontawesome_icon_name                 : lock
 
   - title                                 : Quick and easy entry
-    description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course). If you want, the app can send you experience sampling notifications at different times each day, giving you a comprehensive overview over your typical day.
+    description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course).
     fontawesome_icon_name                 : lock
 
-  - title                                 : Your Data is Secure
-    description                           : Libi takes great care of your data. There are no accounts and no custom syncing, just iCloud and Apple Health. Your data stays on your devices!
+  - title                                 : Sync with Health App
+    description                           : Libi will read and write all compatible data types directly from and into the Apple Health App on your phone using HealthKit. 
     fontawesome_icon_name                 : lock
 
 
