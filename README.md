@@ -5,15 +5,5 @@ Libi Landing Page
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 
 
-
-## Donations
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
-
-
 ## Author
-[Emil Baehr](https://emilbaehr.com/)
-
-
-
-## License
-[MIT License](LICENSE)
+This page is forked from [Emil Baehr](https://emilbaehr.com/)
