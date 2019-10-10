@@ -34,25 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Learn More About Your Body
-    description                           : Easily enter your libido and learn how it changes over time with your love life.
+  - title                                 : Track your libido, mood, and sexual activity
+    description                           : Be more aware of how your body works, and how stress, workouts, and other factors influence your libidinal cycle. Find out short- and long-term trends and improve your mental health and/as well as your awareness of your needs and wants. 
     fontawesome_icon_name                 : magic
 
-  - title                                 : Learn More About Your Mind
-    description                           : Track your mood and see when you are sad, depressed, okay or really really happy!
+  - title                                 : Track your Menstrual Cycle
+    description                           : If you menstruate, you can also quickly and easily enter menstrual flow, learn more about your cycle’s influence on your life, and use Apple Health algorithms to analyze and predict your cycle.
     fontawesome_icon_name                 : smile-beam
     
   - title                                 : Find Connections
-    description                           : Libi will automatically correlate your libido and mood development with other factors.
+    description                           : Once you’ve started tracking your mood, libido, sexual activity and menstrual flow, you will discover beautiful charts that can give you a quick and glanceable idea of how you’re doing, where you’re going and historical trends.
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Private by Design
     description                           : Your data stays on your devices and is only synced through your personal iCloud. <a href="./privacypolicy">Privacy Policy</a>
     fontawesome_icon_name                 : lock
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Quick and easy entry
+    description                           : Entering data is just one swipe in Libi’s attractive and streamlined user interface (which supports Dark Mode of course). If you want, the app can send you experience sampling notifications at different times each day, giving you a comprehensive overview over your typical day.
+    fontawesome_icon_name                 : lock
+
+  - title                                 : Your Data is Secure
+    description                           : Libi takes great care of your data. There are no accounts and no custom syncing, just iCloud and Apple Health. Your data stays on your devices!
+    fontawesome_icon_name                 : lock
 
 
 
