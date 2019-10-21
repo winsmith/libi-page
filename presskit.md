@@ -67,7 +67,37 @@ The app icon comes in two flavors. The light flavor is being used for the iOS ho
 <img src="assets/press/AppIcon3.png" class="pressImage halfWidth">
 <img src="assets/press/AppIcon3Light.png" class="pressImage halfWidth">
 
-### Screenshots
+### Screenshots in Light Mode
+
+<img src="assets/screenshots/IMG_8065.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8066.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8067.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8068.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8068.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8069.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8070.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8071.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8072.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8073.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8074.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8075.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8076.PNG" class="pressImage thirdWidth">
+
+### Screenshots in Dark Mode
+
+<img src="assets/screenshots/IMG_8077.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8078.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8079.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8080.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8081.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8082.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8083.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8084.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8085.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8086.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8087.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8088.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8089.PNG" class="pressImage thirdWidth">
 
 ### Pictures of Daniel
 <img src="assets/press/daniel2.jpg" class="pressImage thirdWidth">
