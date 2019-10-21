@@ -33,15 +33,31 @@ li {
 }
 
 img.pressImage {
+	
+}
+
+.fullWidth {
 	max-width: 100%;
 }
 
-img.pressImage.halfWidth {
+.halfWidth {
 	max-width: 48%;
 }
 
-img.pressImage.thirdWidth {
+.thirdWidth {
 	max-width: 32%;
+}
+
+.floatRight {
+	float: right;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.padding {
+	padding: 1em;
 }
 
 // Better font rendering

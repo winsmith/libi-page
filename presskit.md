@@ -2,22 +2,33 @@
 title: Press Kit
 layout: textpost
 ---
-
+<img src="assets/press/AppIcon3.png" class="pressImage thirdWidth">
 <p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido and sexual activity! Free in the App Store, in-app-purchase to remove ads.</p>
 
 ## What is Libi?
-Libi is an app that allows you to enter your current libido level and mood. It will then allow you to track those over the course of the month. You can also enter sexual activiy, orgasms, and menstruation. 
+<img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/enterMood.png" />
+Libi is an app that allows you to enter your current libido level and mood. It will then allow you to track those over the course of the month. Additionally, you can enter sexual activiy, orgasms, and menstruation. 
 
 In addition, the app can -- with your permission -- pull various data from the Apple Health app on your iPhone. 
 
-With all this data, Libi allows you to find correlations and trends allowing you to be more aware of your mental health 
+With all this data, Libi allows you to find correlations and trends allowing you to be more aware of your mental health.
+
+While the app is light-hearted and friendly, I take great care to stay away form being crude or overly sexual. There's also no value judgement. High libido is not inherently "better" than low libido, just different.
+
+<div style="clear: both;">&nbsp;</div>
 
 ## It tracks ... what??
 Libi is an app I wrote to find more about my libido and mood. When do they ebb and flow? What are they influenced by? Is it true that I'm always in way better mood during summer, or is that just a wrong perception?
 
+<img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/notification.jpg" />
+
 I decided to get scientific about it. The app uses a technique called [Experience Sampling](https://en.wikipedia.org/wiki/Experience_sampling_method): it randomly collects data at different times each day and uses that to calculate your average day, week, etc. Using this data, it can help you find correlations to data that the Health app can provide.
 
+<div style="clear: both;">&nbsp;</div>
+
 ## Key Features
+
+<img src="assets/screenshots/IMG_8065.PNG" class="pressImage thirdWidth floatRight padding">
 
 - **Track your Libido, Mood, and Sexual Activity**
 - **Track your Menstrual Cycle**
@@ -43,6 +54,9 @@ Libi is completely free, with ads. If you'd rather have an ad-free experience (I
 ## App Store Link
 An app store link will appear here once the app is released. If you would like a TestFlight invite or a Promo Code, feel free to email me at [libi@breakthesystem.org](mailto:libi@breakthesystem.org).
 
+## The Future
+Right now, Libi only shows you various correlated graphs and lets you decide yourself if there's anything going on. In future versions, I want to add way more types of data from HealthKit. I want to calculate correlation coefficients directly, so the app can pop up and say "hey, x and y seem to be related. Do you want to see a graph about that?"
+
 ## Who wrote Libi?
 Hi, I'm Daniel Jilg! I'm an app developer from Augsburg, Germany. 35 years of age, married, two cats. My previous occupations included being a CTO for a medium size app development agency, and founder of a sadly failed startup that wanted to shoot new kinds of communications satellites into orbit. These days I mostly freelance for companies who build privacy-enhancing apps, or browsers, or both. And I build the occasional app myself — Libi is the first of a new wave of those, but my first app, TenPlusTwo, was among the first 100 apps on the iOS App Store when it launched way back when.
 
@@ -60,7 +74,7 @@ Control-Click these and select *Save Image to Downloads* to download them, or dr
 
 The app icon comes in two flavors. The light flavor is being used for the iOS home screen, the dark one for accents.
 
-<img src="assets/press/banner3.jpg" class="pressImage">
+<img src="assets/press/banner3.jpg" class="pressImage fullWidth">
 
 ----
 
