@@ -84,6 +84,15 @@ The app icon comes in two flavors. The light flavor is being used for the iOS ho
 <img src="assets/press/AppIcon3.png" class="pressImage halfWidth">
 <img src="assets/press/AppIcon3Light.png" class="pressImage halfWidth">
 
+### Stylized Screenshots
+
+<img src="assets/screenshots/IMG_8093.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8094.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8095.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8096.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8097.PNG" class="pressImage thirdWidth">
+<img src="assets/screenshots/IMG_8098.PNG" class="pressImage thirdWidth">
+
 ### Screenshots in Light Mode
 
 <img src="assets/screenshots/IMG_8065.PNG" class="pressImage thirdWidth">
