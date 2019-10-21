@@ -67,9 +67,6 @@ The app icon comes in two flavors. The light flavor is being used for the iOS ho
 <img src="assets/press/AppIcon3.png" class="pressImage halfWidth">
 <img src="assets/press/AppIcon3Light.png" class="pressImage halfWidth">
 
-----
-
-
 ### Screenshots
 
 ### Pictures of Daniel
