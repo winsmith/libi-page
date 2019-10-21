@@ -6,14 +6,14 @@ layout: textpost
 <p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido and sexual activity! Free in the App Store, in-app-purchase to remove ads.</p>
 
 ## What is Libi?
-<img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/enterMood.png" />
+<img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/enterMood.gif" />
 Libi is an app that allows you to enter your current libido level and mood. It will then allow you to track those over the course of the month. Additionally, you can enter sexual activiy, orgasms, and menstruation. 
 
 In addition, the app can -- with your permission -- pull various data from the Apple Health app on your iPhone. 
 
 With all this data, Libi allows you to find correlations and trends allowing you to be more aware of your mental health.
 
-While the app is light-hearted and friendly, I take great care to stay away form being crude or overly sexual. There's also no value judgement. High libido is not inherently "better" than low libido, just different.
+While the app is light-hearted and friendly, I take great care to stay away form being crude or overly sexual. And there's no value judgement. High libido is not inherently "better" than low libido, just different.
 
 <div style="clear: both;">&nbsp;</div>
 
@@ -58,7 +58,9 @@ An app store link will appear here once the app is released. If you would like a
 Right now, Libi only shows you various correlated graphs and lets you decide yourself if there's anything going on. In future versions, I want to add way more types of data from HealthKit. I want to calculate correlation coefficients directly, so the app can pop up and say "hey, x and y seem to be related. Do you want to see a graph about that?"
 
 ## Who wrote Libi?
-Hi, I'm Daniel Jilg! I'm an app developer from Augsburg, Germany. 35 years of age, married, two cats. My previous occupations included being a CTO for a medium size app development agency, and founder of a sadly failed startup that wanted to shoot new kinds of communications satellites into orbit. These days I mostly freelance for companies who build privacy-enhancing apps, or browsers, or both. And I build the occasional app myself — Libi is the first of a new wave of those, but my first app, TenPlusTwo, was among the first 100 apps on the iOS App Store when it launched way back when.
+Hi, I'm **Daniel Jilg**! I'm an app developer from Augsburg, Germany. 35 years of age, married, two cats. 
+
+My previous occupations included being a CTO for a medium size app development agency, and founder of a sadly failed startup that wanted to shoot new kinds of communications satellites into orbit. These days I mostly freelance for companies who build privacy-enhancing apps, or browsers, or both. And I build the occasional app myself — Libi is the first of a new wave of those, but my first app, TenPlusTwo, was among the first 100 apps on the iOS App Store when it launched way back when.
 
 I'm super into space. If you are too, check out my talks about [computers in space](https://www.youtube.com/watch?v=OTys3VzCe7o) and [calculating orbits in the solar system using swift](https://www.youtube.com/watch?v=09iTidqkriw) 🚀
 
