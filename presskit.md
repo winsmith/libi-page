@@ -37,6 +37,7 @@ I decided to get scientific about it. The app uses a technique called [Experienc
 - **Stay Private and Secure**
 - **Sync with Health App**
 - **Customize Data Entry and Display**
+- **Show Libi in German or English**
 - **Use the app for free with ads, or pay a small fee to remove them**
 
 Read more about [Libi's features and their benefits](/benefits) in detail!
@@ -68,7 +69,7 @@ Other things I'm into are feminism, wakeboarding, live translating conference ta
 
 You can contact me at [libi@breakthesystem.org](mailto:libi@breakthesystem.org) or [say hi on twitter](https://twitter.com/breakthesystem) or even go to [LinkedIn if you are into that](https://www.linkedin.com/in/danieljilg/).
 
-## Let's see some Design, Screenshots and Icons
+## Let's see some Design, Screenshots, Icons, and Photos
 
 Control-Click these and select *Save Image to Downloads* to download them, or drag them out of the browser onto your desktop.
 
