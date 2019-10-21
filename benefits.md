@@ -8,7 +8,7 @@ layout: textpost
 Keywords: libido, mood, reproductive, sex, 
 
 ## Track your libido, mood, and sexual activity
-Be more aware of how your body works, and how stress, workouts, and other factors influence your libidinal cycle. Find out short- and long-term trends and improve your mental health and/as well as your awareness of your needs and wants. 
+Be more aware of how your body works, and how stress, workouts, and other factors influence your libidinal cycle. Find out short- and long-term trends and improve your mental health as well as your awareness of your needs and wants. 
 
 Once you know what you want and need, you can communicate this information better to your partner(s).
 

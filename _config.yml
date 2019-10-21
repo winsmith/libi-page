@@ -6,7 +6,7 @@ ios_app_id                                : 1475819970                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : presskit                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Daniel aka breakthesystem
-your_link                                 : http://breakthesystem.org
-your_city                                 : Augsburg
+your_name                                 : Daniel Jilg
+your_link                                 : http://twitter.com/breakthesystem
+your_city                                 : Germany
 email_address                             : libi@breakthesystem.org
 facebook_username                         :                                           
 instagram_username                        : libitracker
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Track your libido, mood, and sexual activity
-    description                           : Be more aware of how your body works, and how stress, workouts, and other factors influence your libidinal cycle. Find out short- and long-term trends and improve your mental health and/as well as your awareness of your needs and wants. 
+    description                           : Be more aware of how your body works, and how stress, workouts, and other factors influence your libidinal cycle. Find out short- and long-term trends and improve your mental health plus your awareness of your needs and wants. 
     fontawesome_icon_name                 : magic
 
   - title                                 : Track your Menstrual Cycle

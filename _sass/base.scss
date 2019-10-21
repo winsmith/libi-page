@@ -28,6 +28,22 @@ h3 {
     font-size: 2rem;
 }
 
+li {
+	padding: 0.5em 0;
+}
+
+img.pressImage {
+	max-width: 100%;
+}
+
+img.pressImage.halfWidth {
+	max-width: 48%;
+}
+
+img.pressImage.thirdWidth {
+	max-width: 32%;
+}
+
 // Better font rendering
 body {
 	-webkit-font-smoothing: antialiased;
