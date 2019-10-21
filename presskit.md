@@ -28,7 +28,7 @@ I decided to get scientific about it. The app uses a technique called [Experienc
 - **Customize Data Entry and Display**
 - **Use the app for free with ads, or pay a small fee to remove them**
 
-Read even more about [Libi's features and their benefits](/benefits)!
+Read more about [Libi's features and their benefits](/benefits) in detail!
 
 ## Data Security and Privacy
 Libido and Mood data is incredibly sensitive. This is why all data you enter into the app is only stored on your devices. Libido, Mood, and Orgasm data is stored directly into Core Data. Sexual Activity and Menstrual Flow are stored into the Health app using Apple HealthKit. 
@@ -41,7 +41,7 @@ In ad-supported mode, the app includes the Admob SDK, which will assign users of
 Libi is completely free, with ads. If you'd rather have an ad-free experience (I mean who doesn't?), you can pay a small fee of **$2.49** (or 2.49 €) per year to remove the ads. 
 
 ## App Store Link
-An app store link will appear here once the app is released. If you would like a TestFlight invite, feel free to email me at [libi@breakthesystem.org](mailto:libi@breakthesystem.org).
+An app store link will appear here once the app is released. If you would like a TestFlight invite or a Promo Code, feel free to email me at [libi@breakthesystem.org](mailto:libi@breakthesystem.org).
 
 ## Who wrote Libi?
 Hi, I'm Daniel Jilg! I'm an app developer from Augsburg, Germany. 35 years of age, married, two cats. My previous occupations included being a CTO for a medium size app development agency, and founder of a sadly failed startup that wanted to shoot new kinds of communications satellites into orbit. These days I mostly freelance for companies who build privacy-enhancing apps, or browsers, or both. And I build the occasional app myself — Libi is the first of a new wave of those, but my first app, TenPlusTwo, was among the first 100 apps on the iOS App Store when it launched way back when.
