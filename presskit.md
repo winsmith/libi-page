@@ -3,11 +3,11 @@ title: Press Kit
 layout: textpost
 ---
 <img src="assets/press/AppIcon3.png" class="pressImage thirdWidth">
-<p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido and sexual activity! Free in the App Store, in-app-purchase to remove ads.</p>
+<p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido, menstruation, and sexual activity! Free in the App Store, in-app-purchase to remove ads.</p>
 
 ## What is Libi?
 <img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/enterMood.gif" />
-Libi is an app that allows you to enter your current libido level and mood. It will then allow you to track those over the course of the month. Additionally, you can enter sexual activiy, orgasms, and menstruation. 
+Libi is an app that allows you to enter your current libido level and mood. It will then allow you to track those over the course of the month. Same with sexual activity, orgasms, and menstruation.
 
 In addition, the app can -- with your permission -- pull various data from the Apple Health app on your iPhone. 
 
