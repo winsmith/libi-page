@@ -3,7 +3,7 @@ title: Press Kit
 layout: textpost
 ---
 <img src="assets/press/AppIcon3.png" class="pressImage thirdWidth">
-<p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido, menstruation, and sexual activity! Free in the App Store, in-app-purchase to remove ads.</p>
+<p style="font-size: 18pt;">Lots of people track their workouts, their diet, or their sleep. <b>Libi.app</b> allows them to track their mood, libido, menstruation, and sexual activity! Free in the App Store, in-app-purchase for advanced features.</p>
 
 ## What is Libi?
 <img class="pressImage thirdWidth floatRight padding" src="/assets/screenshots/enterMood.gif" />
@@ -38,7 +38,7 @@ I decided to get scientific about it. The app uses a technique called [Experienc
 - **Sync with Health App**
 - **Customize Data Entry and Display**
 - **Show Libi in German or English**
-- **Use the app for free with ads, or pay a small fee to remove them**
+- **Use the app for free, or pay a small fee to get advanced Pro features**
 
 Read more about [Libi's features and their benefits](/benefits) in detail!
 
@@ -47,10 +47,8 @@ Libido and Mood data is incredibly sensitive. This is why all data you enter int
 
 None of that data is uploaded to any servers. If the app ever gains the ability to do so, it will be a completely optional feature that you'll have to explicitly opt-in to enable. 
 
-In ad-supported mode, the app includes the Admob SDK, which will assign users of the app a unique ID and report that back to Google's servers. Ads cannot access any user data entered into the app though. In paid mode, I'm trying hard to not even load the Admob SDK into memory.
-
 ## Premium In-App Purchase and Pricing
-Libi is completely free, with ads. If you'd rather have an ad-free experience (I mean who doesn't?), you can pay a small fee of **$2.49** (or 2.49 €) per year to remove the ads. 
+Libi is free, but there are Pro features that you can unlock. You can pay a small fee of **$2.49** (or 2.49 €) per year to get those pro features. 
 
 ## App Store Link
 An app store link will appear here once the app is released. If you would like a TestFlight invite or a Promo Code, feel free to email me at [libi@breakthesystem.org](mailto:libi@breakthesystem.org).
