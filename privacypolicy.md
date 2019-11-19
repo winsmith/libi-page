@@ -2,63 +2,129 @@
 title: Privacy Policy
 layout: textpost
 ---
+Last updated November 19, 2019  
 
-I built the Libi app as an Ad Supported app. This SERVICE is provided by at no cost and is intended for use as is.
+Thank you for choosing to be part of our community at breakthesystem (Daniel Jilg) (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at daniel@breakthesystem.org.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
+When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Apps and our services.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+This privacy policy applies to all information collected through our mobile application, ("Apps"), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Sites"). 
 
-## Information Collection and Use
+Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.  
 
-For a better experience, while using the Service, I may require you to provide me with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. 
+# 1. WHAT INFORMATION DO WE COLLECT?  
 
-The exception to this is the "Donate your Data" featuer: If you donate your data by tapping the "Donate you Data" button, the data donated is stripped of any identifying information, uploaded onto servers and processed there. 
+## Information automatically collected 
 
-In Ad-Supported Mode, the app does use third party services that may collect information used to identify you.
+In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Apps.
 
-Link to privacy policy of third party service providers used by the app
+We automatically collect certain information when you visit, use or navigate the Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Apps and other technical information. This information is primarily needed to maintain the security and operation of our Apps, and for our internal analytics and reporting purposes.  
 
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+## Information collected through our Apps 
 
-## Log Data
+In Short: We may collect information regarding your mobile device, push notifications, when you use our apps.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+If you use our Apps, we may also collect the following information:    
 
-## Cookies
+- Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device’s health data, and other features. If you wish to change our access or permissions, you may do so in your device’s settings. 
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+- Mobile Device Data. We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.    
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+- Push Notifications. We may request to send you push notifications regarding your account or the mobile application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.   
 
-## Service Providers
+## Information NOT collected
 
-I may employ third-party companies and individuals due to the following reasons:
+We will NOT collect information about your person (Name, Gender, Address, Sexual Preferences, etc.). Ever.
 
-- To facilitate the Service;
-- To provide the Service on my behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how my Service is used.
+Also, all the data you enter into the App such as Orgasms, Libido, Mood, or data the app exchanges with your device's Health data, such as Sexual Activity, Menstruation Data, Workouts, and other Health data, will not be transferred out of your control. It may be synced over iCloud to your other devices, but it will never reach us our any partners we should have. Your data is yours.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
+A possible exception to the previous paragraph is that the app may in the future include an optional, opt-in "Donate Your Data" feature. Should you activate that feature, data you enter into the app will be stripped of identifying information, if any such information is present, and uploaded to our servers in order to improve the App further. This feature, if it ever appears, is optional and off by default. We will communicate clearly what data will be transferred if any.
 
-## Security
+# 2. HOW DO WE USE YOUR INFORMATION?  
 
-I value your trust in providing me your Personal Information, thus I am striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.  
 
-## Links to Other Sites
+We use personal information collected via our Apps for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests ("Business Purposes"), in order to enter into or perform a contract with you ("Contractual"), with your consent ("Consent"), and/or for compliance with our legal obligations ("Legal Reasons"). We indicate the specific processing grounds we rely on next to each purpose listed below.  
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+We use the information we collect or receive:   
 
-## Children’s Privacy
+- For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Apps, products, services, marketing and your experience.  
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from my servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  
 
-## Changes to This Privacy Policy
+In Short: We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.   
 
-I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+We may process or share data based on the following legal basis:
 
-## Contact Me
+- Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose. 
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at libi@breakthesystem.org.
+- Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests. 
 
+- Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract. 
+
+- Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements). 
+
+- Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+
+More specifically, we may need to process your data or share your personal information in the following situations:   
+
+
+- Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.  
+
+- Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Apps. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you. (Advertisers will, however, never be able to access your actual data.)
+
+# 4. HOW LONG DO WE KEEP YOUR INFORMATION? 
+
+In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.  
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 1 year.
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+# 5. HOW DO WE KEEP YOUR INFORMATION SAFE? 
+
+In Short: We aim to protect your personal information through a system of organisational and technical security measures. 
+
+We have implemented appropriate technical and organisational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Apps is at your own risk. You should only access the services within a secure environment. 
+
+# 6. DO WE COLLECT INFORMATION FROM MINORS?
+
+In Short: We do not knowingly collect data from or market to children under 13 years of age.
+
+We do not knowingly solicit data from or market to children under 13 years of age. By using the Apps, you represent that you are at least 13 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 13, please contact us at daniel@breakthesystem.org. 
+
+# 7. WHAT ARE YOUR PRIVACY RIGHTS? 
+
+In Short: In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
+
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws. 
+
+If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
+
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm  
+
+# 8. CONTROLS FOR DO-NOT-TRACK FEATURES  
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy. 
+
+# 9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.  
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below. 
+
+If you are under 18 years of age, reside in California, and have a registered account with the Apps, you have the right to request removal of unwanted data that you publicly post on the Apps. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Apps, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+# 10. DO WE MAKE UPDATES TO THIS POLICY?
+
+In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.
+
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information. 
+
+# 11. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
+
+If you have questions or comments about this policy, you may email us at daniel@breakthesystem.org
+
+# HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by emailing daniel@breakthesystem.org. We will respond to your request within 30 days.
