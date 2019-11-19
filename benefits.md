@@ -39,6 +39,3 @@ It means that you can allow other apps to share this data, for example the built
 
 ## Customize Data Entry and Display
 Some people will use Libi to mainly enter their libido, others to manage their mood or cycle. Since Libi allows you to rearrange the order in which you enter things, it can keep up with what’s important to you! You can even hide data point types you never want to enter. This way, data entry goes even quicker!
-
-## Ad supported, but you can remove them 
-Libi is free for everyone, using small ad banners that should bring in a trickle of revenue to continue supporting and developing the app. If you don’t like ads (I mean, who does?) and would like to support me directly, there’s a yearly subscription for the price of a small coffee. <3
