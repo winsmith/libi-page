@@ -1,23 +1,26 @@
-Hallo Daniel, was ist denn die Libido?
+Hi Daniel! So, what is libdo exactly?
 
-Huhu! Je nachdem wen man fragt ist die Libido entweder nur das rein körperliche Begehren, oder aber der Überbegriff für sowohl das körperliche als auf das geistige Gefühl der Sexualität. Was das genau bedeutet ist natürlich sehr individuell und für jede\*n ein bisschen anders. 
+Nice to see you! Depending on who you ask, libido is can mean your body's feeling of desire, or it can be a broader umbrella term for both the corporeal and spiritual feeling of sexuality. What exactly that means for yourself is up to you to decide, because I think this is different for each individual. 
 
-Und warum sollte man die Tracken?
+And why should people track their libido?
 
-Ich habe meine App, Libi, geschrieben um meine Stimmung und meine Libido über längere Zeiträume hinweg überblicken zu können. Ich kann damit nicht nur Kurven dieser beiden Werte anzeigen, sondern auch vergleichen und damit Zusammenhänge mit anderen Werten wie Sport-Kalorien oder Schlaf finden. Libi trackt optional auch noch Menstruation, sexuelle Aktivitäten, Orgasmen, und demnächst auch den Energie-Level. Mir persönlich hilft das, mir meiner Stimmung mehr bewusst zu werden. Wenn ich einmal am Tag ganz objektiv versuche einzuschätzen wie es mir geht, wird mir manchmal erst selber manche Wahrheit bewusst. Ist seit Wochen die Stimmung im Minus? Irgendwas muss ich ändern. Ist neuerdings die Libido anders als sonst? Vielleicht erkenne ich einen wiederkehrenden Zyklus. 
+I wrote my App, Libi, to get an overview of my mood and libido over time. Recording it at random intervals throughout the day allows me to find influences and long term trends. I can use it to show graphs of how my libido and mood develop and compare them to other stuff like calories burnt on activity, or sleep.
 
-Gab es vor Libi schon andere Libidotracker auf dem Markt? Was ist an Deiner App besonders?
+Libi can optionally also track menstruation, sexual activity, orgasms, and (soon) your energy level — awesome for spoonies. I think it helps me be more aware of how I feel if I try to objectively evaluate where my body and mind are on a given day. Has my mood been below average for weeks now? Maybe I can change something about my situation. Is my libido different than usual? Maybe I can recognize an overarching cycle.
 
-Viele Apps zur Berechnung der Menstruation (zb Clue oder Flo) erlauben auch die Eingabe der Libido. Es gibt auch diverse Apps in denen man seine Stimmung eintragen kann. Aber die Kombination von beiden gab es so bisher noch nicht und schon gar nicht mit einem eher analytischen Ansatz, der Statistiken und Korrelationen anzeigt. Anders als die Menstruations-Apps die auch Libido können ist Libi eine Wie-geht-es-mir-eigentlich?-App, die es Dir erlaubt sehr feine Unterschiede und Trends in den Daten zu sehen. Und wenn Du schon eine App benutzt, kann Libi deren Daten über Menstruation und Sexualität mit benutzen, ohne dass du sie mehrmals eingeben musst. 
+Are there other libido trackers on the market? What makes your app special?
 
-Das sind ziemlich sensible Daten, die in dieser App gesammelt werden. Wie gehst Du mit der Privatsphäre Deiner Anwender und Anwenderinnen um?
+Many apps for tracking and calculating menstrual cycles (like Clue or Flo) also allow you to enter your libido. There are also various mood tracking apps. However, I am not aware of an app that combines them in this fashion, especially with an eye towards an analytical approach that shows you statistics and correlations. Libi is the how-am-I-today-actually?-app that allows you to see tiny differences and trends in your data. And if you already use an app to track your menstrual flow, you can exchange data with it using the Apple Health app and use Libi's features without entering this stuff more than once.
 
-Privatsphäre ist bei mir sowieso ein wichtiges Thema, aber wenn es um so intime Dinge geht, dann gilt das natürlich um so mehr. Die Daten die du in Libi eingibst verlassen nie dein Telefon oder Tablet. Sie werden in eine lokale Datenbank gespeichert und da bleiben sie. Wenn du es erlaubst, werden die Daten auch in der Apple Health App gespeichert, aber auch da haben User\*innen die volle Kontrolle über ihre Daten.  
+That's very sensitive data that you're collecting. 
+How do you take care of your users' privacy?
 
-Wo kann man die App herunterladen?
+I'm a privacy nut in general, and even more so when there's such intimate data. No data that you enter into Libi ever leaves your phone. Data points are saved into a local database and that's where they stay. There's no server involved. If you allow it, Libi will sync data with Apple Health, where you also have full control over it.
 
-Im [iOS App Store: Libi](https://apps.apple.com/de/app/libi/id1475819970)
+Where can you download the app?
 
-Wird es Libi auch für Android geben?
+Libi is available for free in the [iOS App Store: Libi](https://apps.apple.com/de/app/libi/id1475819970)
 
-Die Frage höre ich öfter. Ich persönlich habe leider nicht genügend Skills in der Android-Entwicklung, aber vielleicht ergibt sich ja mal eine Kollaboration. Bisher ist da aber nichts geplant. 
+Will Libi be released for Android?
+
+I hear that question a lot. Personally I think I lack the skills to create a good Android version, and you don't have the Apple Health ecosystem there. Maybe I'll find a way to make it happen with someone, but right now I don't have specific plans.
